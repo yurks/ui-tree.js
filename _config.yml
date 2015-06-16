@@ -1,0 +1,5 @@
+name: ui-tree.js
+version: 1.0
+tagline: Pure javascript implementation of three-state checkboxes nested collapsible tree.
+tagline2: Optimized for large amount of data.
+github: yurks
