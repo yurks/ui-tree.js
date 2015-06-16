@@ -135,6 +135,9 @@ section {
     float:right;
     padding-bottom:50px;
 }
+section:empty {
+    display: none;
+}
 
 small {
     font-size:11px;
