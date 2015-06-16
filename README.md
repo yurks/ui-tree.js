@@ -3,10 +3,9 @@
 Ui-tree.js is a pure javascript plugin for rendering three-state checkboxes tree form JSON data.
 It also could be attached to existing HTML with "ul-li" tree. It could handle many thousands of tree items without performance issues. 
 
-![Screenshot](http://yurks.github.io/ui-tree.js/assets/screenshot.png)
-
-
 [Live Demo](http://yurks.github.io/ui-tree.js/demo)
+
+[![Live Demo](https://yurks.github.io/ui-tree.js/assets/screenshot.png)](http://yurks.github.io/ui-tree.js/demo)
 
 ## Installing
 
