@@ -5,7 +5,10 @@ It also could be attached to existing HTML with "ul-li" tree. It could handle ma
 
 ![Screenshot](https://yurks.github.io/ui-tree/assets/screenshot.png)
 
-## Installing:
+
+[Live Demo](http://yurks.github.io/ui-tree.js/demo)
+
+## Installing
 
 Use `bower` to install it to your app:
     
@@ -18,7 +21,7 @@ or download [latest release](https://github.com/yurks/ui-tree.js/releases/latest
 <link href="ui-tree.min.css" rel="stylesheet">
 ```
 
-## Usage:
+## Usage
 
 ```js
 var uiTreeInstance = UiTree.draw(container, tree);
@@ -46,7 +49,7 @@ Could be used in server side for generating static HTML.
 var uiTreeHtml = UiTree.render(tree);
 ```
 
-## Examples:
+## Examples
 
 Example with JSON data:
 
