@@ -11,11 +11,11 @@ Use `bower` to install it to your app:
     
     bower install --save ui-tree.js
 
-or download latest release and attach it manually:
+or download [latest release](releases/latest) and attach it manually:
 
 ```html
-<script src="ui-tree.js"></script>
-<link href="ui-tree.css" rel="stylesheet">
+<script src="ui-tree.min.js"></script>
+<link href="ui-tree.min.css" rel="stylesheet">
 ```
 
 ## Usage:
