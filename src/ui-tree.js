@@ -1,0 +1,1 @@
+global.uiTree = require('./index');
