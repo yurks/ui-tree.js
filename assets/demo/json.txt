@@ -1,0 +1,16 @@
+[
+    {"label":"UI Tree Root", "children":[
+        {"label":"Gutmann, Fritsch and Steuber", "children":[
+            {"label":"Marvin Group", "children":[
+                {"label": "Bode, Deckow and Wolff", "children":[
+                    {"label":"Kutch and Daughters", "id":"203838b2-eff5-49db-95d6-0f6f40830b89", "checked":true},
+                    {"label":"Kautzer and Sons", "id":"60c4536b-135a-4abb-822c-2e26df1749d9"},
+                    {"label":"Herzog-Renner", "id":"12cc1fdb-23b3-4336-add4-df1a002df332", "checked":true}
+                ]}
+            ]}
+        ], "expanded": true},
+        {"label":"Christiansen, Grant and Spencer", "id":"60403a9d-f972-427d-a6ba-16812aa98576", "checked":true},
+        {"label":"Feeney, Hickle and Luettgen", "id":"ec76491a-90ca-4217-98be-3ee98911eea5"},
+        {"label":"Osinski LLC", "id":"ba98b91f-bad9-4e31-85dc-fdedb745811c", "checked":true, "disabled":true}
+    ]}
+]

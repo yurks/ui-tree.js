@@ -1,0 +1,51 @@
+<ul class="ui-tree-root"><li
+    class="ui-tree-item ui-tree-item-group" data-ui-tree-expanded="true"><div
+        class="ui-tree-item-label checkbox"><label
+            class="ui-tree-item-label-real"><span
+                class="ui-tree-item-toggler"></span><input
+                class="ui-tree-item-checkbox" type="checkbox" value=""><span
+                class="ui-tree-item-text">UI Tree Root</span>
+            </label>
+        </div><ul
+        class="ui-tree-children"><li
+            class="ui-tree-item"><div
+                class="ui-tree-item-label checkbox"><label
+                    class="ui-tree-item-label-real"><span
+                        class="ui-tree-item-toggler"></span><input
+                        class="ui-tree-item-checkbox" type="checkbox" value="60403a9d-f972-427d-a6ba-16812aa98576"><span
+                        class="ui-tree-item-text">Christiansen, Grant and Spencer</span>
+                    </label>
+                </div>
+            </li><li
+            class="ui-tree-item"><div
+                class="ui-tree-item-label checkbox"><label
+                    class="ui-tree-item-label-real"><span
+                        class="ui-tree-item-toggler"></span><input
+                        class="ui-tree-item-checkbox" type="checkbox" checked="" disabled="" value="ba98b91f-bad9-4e31-85dc-fdedb745811c"><span
+                        class="ui-tree-item-text">Osinski LLC</span>
+                    </label>
+                </div>
+            </li><li
+            class="ui-tree-item ui-tree-item-group" data-ui-tree-expanded="true"><div
+                class="ui-tree-item-label checkbox"><label
+                    class="ui-tree-item-label-real"><span
+                        class="ui-tree-item-toggler"></span><input
+                        class="ui-tree-item-checkbox" type="checkbox" value=""><span
+                        class="ui-tree-item-text">Gutmann, Fritsch and Steuber</span>
+                    </label>
+                </div><ul
+                class="ui-tree-children"><li
+                    class="ui-tree-item"><div
+                        class="ui-tree-item-label checkbox"><label
+                            class="ui-tree-item-label-real"><span
+                                class="ui-tree-item-toggler"></span><input
+                                class="ui-tree-item-checkbox" type="checkbox" checked="" value="ec76491a-90ca-4217-98be-3ee98911eea5"><span
+                                class="ui-tree-item-text">Feeney, Hickle and Luettgen</span>
+                            </label>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
